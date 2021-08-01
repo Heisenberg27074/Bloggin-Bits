@@ -1,0 +1,13 @@
+i.icon{
+    font-size: 2rem;
+}
+.header{
+    text-align: center;
+}
+.container.main{
+    margin-top: 6em;
+    
+}
+#delete{
+    display: inline;
+}
